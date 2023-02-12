@@ -6,7 +6,7 @@ import socket
 import subprocess
 from multiprocessing import Process
 
-SERVER_IP = "192.168.0.105"
+SERVER_IP = ""
 PORT = 4444
 
 class Player(NamedTuple):
